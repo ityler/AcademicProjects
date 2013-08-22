@@ -1,0 +1,6 @@
+
+*.properties
+*nbproject/
+*.netbeans_automatic_build
+*.netbeans_update_resources
+*.ds_store
