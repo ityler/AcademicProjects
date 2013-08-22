@@ -1,5 +1,5 @@
-/*
-Place comments here....
+/* Tyler Normile
+ * Java Registration Form with field input validation. 
  */
 
 import java.awt.*;	//import older gui library for content pane
