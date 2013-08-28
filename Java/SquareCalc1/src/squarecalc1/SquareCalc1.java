@@ -13,8 +13,6 @@ public class SquareCalc1 {
         String response;
         response = JOptionPane.showInputDialog (null, "Enter the length of one side of a square:"); 
         double side = Double.parseDouble(response);
-        //double area = calculateAREA(side * side);
-        //double area = Double.parseDouble(response);
         
         //Calculate area
         double area = calculateAREA(side);
